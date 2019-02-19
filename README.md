@@ -2,6 +2,7 @@
 Baseball Players Dataset
 
 ### Project Summary
+<hr>
 In this project, I analyze baseball players dataset. I use various visualization techniques to find more insights. The analysis will show if there is a relationship between players performance and their physical factors. 
 
 ### Software
